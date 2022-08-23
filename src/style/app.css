@@ -1,0 +1,30 @@
+body {
+  background-color: #123;
+  color: #fff;
+}
+
+main {
+  width: 300px;
+  margin: 50px auto 0;
+}
+.result {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.button {
+  padding: 1rem;
+  cursor: pointer;
+  background-color: #123;
+  color: #fff;
+  font-size: 1rem;
+}
+.green {
+  background-color: green;
+}
+.red {
+  background-color: red;
+}
+.grey {
+  background-color: grey;
+}
