@@ -1,3 +1,6 @@
+link to proje : https://tic-tac-toe-olive-pi.vercel.app/
+![Screenshot (180)](https://user-images.githubusercontent.com/84778158/186354924-76ab343d-5663-4832-96f0-385d668a1f6a.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
